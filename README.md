@@ -10,6 +10,11 @@ A complete lending platform where borrowers apply for loans and internal executi
 
 ---
 
+## 🔗 Live Video Demo
+*   **Walkthrough Video (3-5 min)**: [Paste your YouTube / Google Drive Video Link Here]
+
+---
+
 ## ✨ Features & JD Implementation
 *   **Role-Based Access Control (RBAC)**: Distinct dashboards and API restrictions for Admin, Sales, Sanction, Disbursement, Collection, and Borrower.
 *   **Business Rule Engine (BRE)**: Strict server-side validation rejecting applications if: Age < 23 or > 50, Salary < ₹25,000, PAN is invalid (Regex validation), or Employment is Unemployed.
