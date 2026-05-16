@@ -11,7 +11,7 @@ A complete lending platform where borrowers apply for loans and internal executi
 ---
 
 ## 🔗 Live Video Demo
-*   **Walkthrough Video (3-5 min)**: [Paste your YouTube / Google Drive Video Link Here]
+*   **Walkthrough Video (3-5 min)**: [https://screenrec.com/share/QzR5dm8MlH](https://screenrec.com/share/QzR5dm8MlH)
 
 ---
 
